@@ -37,7 +37,7 @@
     command_execution_time
     context
     virtualenv
-    # vcs                     # git status
+    vcs                     # git status
     # prompt_char           # prompt symbol
   )
 
